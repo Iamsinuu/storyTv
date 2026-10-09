@@ -1,0 +1,19 @@
+{
+  "code": 200,
+  "message": "Success",
+  "data": {
+    "subStat": "1",
+    "plan": "𝐌ⱺᑯᑯ𝖾𝗋ᯓ➤ 𝐑υᑯ𝗋α𝗑ⱺ",
+    "cta": "Active",
+    "valdTxt": "Lifetime",
+    "pvend": "JUSPAY",
+    "sectionTile": {
+      "id": "18",
+      "lyt": "TS1",
+      "acttxt": "",
+      "text": "Top 10"
+    },
+    "valEp": 1828891843235,
+    "mdActv": false
+  }
+}
